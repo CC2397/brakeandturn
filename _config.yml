@@ -1,0 +1,52 @@
+# -------------------------------
+# Brake & Turn Compact — GitHub Pages Config
+# -------------------------------
+
+title: "Brake & Turn Compact"
+description: "Anonymous public-domain initiative for ethical, decentralized, life-affirming AI."
+
+# Theme
+theme: jekyll-theme-cayman
+
+# URL setup
+url: "https://brakeandturn.github.io"
+baseurl: ""
+
+# Navigation links (appear as tabs on some Jekyll themes)
+# Each item uses the Markdown filename and link text
+nav:
+  - title: "Home"
+    url: /
+  - title: "Full Compact"
+    url: /compact-full
+  - title: "Companion Docs"
+    url: /companions
+  - title: "Feedback"
+    url: /feedback
+
+# Defaults for all pages
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+      license: "CC0 1.0 Universal / Public Domain"
+      footer: "Human intent. AI precision. Shared stewardship."
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Exclude build junk
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore
