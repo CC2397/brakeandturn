@@ -1,0 +1,39 @@
+name: Feedback
+description: Share improvements, corrections, translations, or implementation notes.
+title: "Feedback: [one line summary]"
+labels: ["feedback"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What would you like to improve or add?
+      description: Be specific—quote a line or section if applicable.
+      placeholder: e.g., “In the Procurement Rider, clause 5 should also mention…” 
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why this matters
+      description: How does this change improve clarity, safety, adoption, or feasibility?
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Sources / examples (optional)
+      description: Link to public documents, code, or case studies (no private info).
+  - type: dropdown
+    id: doc
+    attributes:
+      label: Which document does this affect?
+      options:
+        - Condensed Handout
+        - Full Compact
+        - Underwriting Addendum
+        - Procurement Rider
+        - Parallel Path Strategy (upcoming)
+        - Website / navigation
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else?
+      description: Add any constraints, translation notes, or local context.
