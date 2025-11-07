@@ -86,7 +86,7 @@ Carry it forward—quietly, resolutely, together.
 
 ---
 
-⬅ [Return to Condensed Handout](/)
+⬅ [Return to Condensed Handout](./)
 
 *(Public Domain — CC0 1.0 Universal. Freely share, print, and adapt.)*  
 **Human intent. AI precision. Shared stewardship.**
