@@ -47,3 +47,4 @@ We commit to brake the runaway scaling of centralized, extractive AI and to turn
 
 
 
+
