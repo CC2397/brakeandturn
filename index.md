@@ -1,5 +1,5 @@
 ---
-title: "Brake & Turn Compact — Condensed Handout"
+title: "Brake & Turn Compact"
 layout: default
 ---
 
