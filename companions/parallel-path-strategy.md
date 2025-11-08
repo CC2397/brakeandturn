@@ -1,7 +1,6 @@
 ---
 title: "Parallel Path Strategy"
 layout: default
-nav_order: 2
 ---
 
 {% include nav.html %}
