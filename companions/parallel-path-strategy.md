@@ -153,7 +153,7 @@ Place all artifacts in your public repo (or page) for reproducibility.
 - % requests served locally vs. cloud burst  
 - Energy mix (% renewable) and PUE  
 - Median response latency, error rate  
-- # human-in-loop approvals per 1k decisions  
+- Human-in-loop approvals per 1k decisions  
 - Quarterly **Living Checklist** score (0–5)
 
 ---
