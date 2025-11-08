@@ -1,10 +1,8 @@
 ---
-{% include nav.html %}
-
 title: "Brake & Turn Compact"
 layout: default
 ---
-
+{% include nav.html %}
 # Brake & Turn Compact (Condensed Handout)
 
 **Intelligence must serve life, not consume it.**  
