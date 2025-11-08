@@ -3,6 +3,8 @@ title: "Feedback"
 layout: default
 ---
 
+{% include nav.html %}
+
 # Share Feedback (Quietly)
 
 This project lives in the public domain. There’s no sign-up, no mailing list, and no attribution required.  
