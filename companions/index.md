@@ -21,17 +21,16 @@ Each document is public-domain, continuously editable, and intended for adaptati
 ## 📚 Current Companions
 
 ### 1. [**Living Checklist**](living-checklist)
-A working audit and reflection tool for organizations or teams implementing the Compact.  
-Use it to score AI systems, energy use, and cultural alignment; update quarterly.
+A working audit and reflection tool for organizations or teams implementing the Compact.
 
 ### 2. [**Parallel Path Strategy**](parallel-path-strategy)
-Outlines transitional infrastructure patterns for civic, financial, and community systems that reduce dependence on centralized AI pipelines.
+Deployable patterns for local-first compute, federated labs, open procurement, and knowledge shields.
 
-### 3. [**Underwriting Addendum**](_coming-soon)
-Guidelines for ethical financing, insurance, and public procurement aligned with the Compact’s principles.
+### 3. [**Underwriting Addendum**](underwriting-addendum)
+Ethical terms for financing, insurance, and public procurement aligned to the Compact.
 
-### 4. [**Procurement Rider**](_coming-soon)
-Template language for contracts and RFPs requiring AI vendors to meet the Living Checklist’s benchmarks.
+### 4. [**Procurement Rider**](procurement-rider)
+Template language for RFPs/contracts requiring vendors to meet the Checklist benchmarks.
 
 ---
 
