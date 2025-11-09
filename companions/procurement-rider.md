@@ -158,4 +158,9 @@ Any person or organization may copy, adapt, and incorporate it—without attribu
 **Reference:** Brake & Turn Compact / Procurement Rider v1.0       
 **URL:** [https://cc2397.github.io/brakeandturn/companions/procurement-rider](https://cc2397.github.io/brakeandturn/companions/procurement-rider)
 
-> **Print:** [Download PDF](/brakeandturn/assets/pdfs/BrakeAndTurn_ProcurementRider.pdf)
+> **Print:** [Download PDF]({{ site.baseurl }}/assets/pdfs/BrakeAndTurn_ProcurementRider_v1.pdf)
+
+### Downloads
+<p><a class="btn" href="{{ site.baseurl }}/assets/pdfs/BrakeAndTurn_ProcurementRider_v1.pdf" target="_blank" rel="noopener">
+Download PDF (Letter)
+</a></p>
