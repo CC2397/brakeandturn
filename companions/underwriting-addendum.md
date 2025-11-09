@@ -94,4 +94,9 @@ This Addendum is incorporated into the Agreement as of the Effective Date.
 
 **License:** CC0 / Public Domain — copy, adapt, and re-use without attribution.
 
-> **Print:** [Download PDF](/brakeandturn/assets/pdfs/BrakeAndTurn_UnderwritingAddendum.pdf)
+> **Print:** [Download PDF]({{ site.baseurl }}/assets/pdfs/BrakeAndTurn_UnderwritingAddendum_v1.pdf)
+
+### Downloads
+<p><a class="btn" href="{{ site.baseurl }}/assets/pdfs/BrakeAndTurn_UnderwritingAddendum_v1.pdf" target="_blank" rel="noopener">
+Download PDF (Letter)
+</a></p>
