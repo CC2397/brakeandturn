@@ -31,3 +31,10 @@ If you’re comfortable editing Markdown, fork this repo and open a pull request
 - Edge/federated patterns that reduce centralization
 
 **License:** CC0 / Public Domain — If this reaches you, it’s yours to carry forward.
+
+> **Print:** [Download PDF]({{ site.baseurl }}/assets/pdfs/BrakeAndTurn_FeedbackInsert_v1.pdf)
+
+### Downloads
+<p><a class="btn" href="{{ site.baseurl }}/assets/pdfs/BrakeAndTurn_FeedbackInsert_v1.pdf" target="_blank" rel="noopener">
+Download PDF (Letter)
+</a></p>
