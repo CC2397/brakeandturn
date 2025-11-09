@@ -96,7 +96,3 @@ This Addendum is incorporated into the Agreement as of the Effective Date.
 
 > **Print:** [Download PDF]({{ site.baseurl }}/assets/pdfs/BrakeAndTurn_UnderwritingAddendum_v1.pdf)
 
-### Downloads
-<p><a class="btn" href="{{ site.baseurl }}/assets/pdfs/BrakeAndTurn_UnderwritingAddendum_v1.pdf" target="_blank" rel="noopener">
-Download PDF (Letter)
-</a></p>
