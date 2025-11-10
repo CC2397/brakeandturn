@@ -10,7 +10,7 @@ permalink: /companions/procurement-rider/
 *Ethical contracting standards for AI procurement and vendor engagement.*  
 **Issued under the Brake & Turn Compact — Public Domain (CC0 1.0 Universal).**
 
-🔗 **See also:** [Living Checklist]({{ site.baseurl }}/companions/living-checklist/) · [Companion Index]({{ site.baseurl }}/companions/) · [Feedback]({{ site.baseurl }}/feedback/)
+🔗 **See also:** [Living Checklist]({{ site.baseurl }}/companions/living-checklist/) · [Procurement Rider]({{ site.baseurl }}/companions/procurement-rider/) · [Underwriting Addendum]({{ site.baseurl }}/companions/underwriting-addendum/) · [Parallel Path Strategy]({{ site.baseurl }}/companions/parallel-path-strategy/) · [Companion Index]({{ site.baseurl }}/companions/) · [Feedback]({{ site.baseurl }}/feedback/)
 
 ---
 
