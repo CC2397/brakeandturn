@@ -11,6 +11,8 @@ permalink: /companions/underwriting-addendum/
 
 This Addendum attaches to financing, insurance, or grant agreements (“Agreement”) to ensure funded AI systems are **human-first, decentralized, and life-affirming**. All capital disbursed under the Agreement must comply with the terms below.
 
+🔗 **See also:** [Living Checklist]({{ site.baseurl }}/companions/living-checklist/) · [Companion Index]({{ site.baseurl }}/companions/) · [Feedback]({{ site.baseurl }}/feedback/)
+
 ---
 
 ## 1) Scope + Definitions
