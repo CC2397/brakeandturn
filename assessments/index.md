@@ -27,6 +27,11 @@ Each brief evaluates a real-world case against the principles of the [Living Che
 **Focus:** Energy & Footprint, Governance, Cultural Continuity  
 [Read Assessment]({{ site.baseurl }}/assessments/gigawatt-race/) · [Download PDF]({{ site.baseurl }}/assets/pdfs/BrakeAndTurn_Assessment_GigawattRace_v1.pdf)
 
+#### 2. The Silent Resource War — Land, Water, and Power in the AI Buildout
+*Source:* CNET — “AI Data Centers Are Coming for Your Land, Water and Power”
+**Focus:** Energy & Footprint, Community Impact, Governance
+[Read Assessment]({{ site.baseurl }}/assessments/silent-resource-war/) · [Download PDF]({{ site.baseurl }}/assets/pdfs/BrakeAndTurn_Assessment_SilentResourceWar_v1.pdf)
+
 ---
 
 ### 🧭 How to Use These Briefs
