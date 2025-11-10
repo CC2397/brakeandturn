@@ -50,3 +50,10 @@ Each case brief adds to a growing body of public understanding and helps illumin
 [Living Checklist]({{ site.baseurl }}/companions/living-checklist/) · [Parallel Path Strategy]({{ site.baseurl }}/companions/parallel-path-strategy/) · [Underwriting Addendum]({{ site.baseurl }}/companions/underwriting-addendum/) · [Procurement Rider]({{ site.baseurl }}/companions/procurement-rider/) · [Companion Index]({{ site.baseurl }}/companions/) · [Feedback]({{ site.baseurl }}/feedback/)
 
 ---
+
+### 🖨️ Print & Share
+> **Download Overview (Letter, v1)**  
+> [Click here to download]({{ site.baseurl }}/assets/pdfs/BrakeAndTurn_AssessmentsOverview_v1.pdf){:target="_blank" rel="noopener"}  
+> Freely share, print, or adapt under CC0 / Public Domain.
+
+---
